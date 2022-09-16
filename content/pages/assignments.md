@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course assignments, including a short paper
+  on induction and a final project.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
